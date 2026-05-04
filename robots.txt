@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krmaazha.github.io/sitemap.xml
