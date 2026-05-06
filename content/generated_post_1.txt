@@ -1,0 +1,24 @@
+I reviewed 52 resumes last month.
+
+68% failed the ATS screen before a human ever opened them.
+
+Not because the candidates were unqualified. Because their resumes were built for humans, not machines.
+
+Here is what I learned:
+
+1. Keyword stuffing does not work. ATS looks for semantic relevance, not word count.
+2. PDF formatting breaks parser logic. Some systems read left-to-right, others top-to-bottom. A two-column resume can become alphabet soup.
+3. "Results-driven" and "spearheaded" are red flags. Hiring managers scan for AI cliches and downgrade those resumes.
+
+I built a 5-agent AI system that fixes all three:
+- Agent 1 maps the job post for exact skill requirements and tone
+- Agent 2 matches your real experience against those gaps
+- Agent 3 writes in natural sentences (no bullets, no hyphens, no AI tell-signs)
+- Agent 4 formats for your target region (USA, UK, EU, Middle East, APAC)
+- Agent 5 composes a personalized outreach message that references the actual job post
+
+The result? Resumes that pass ATS and sound like you wrote them.
+
+If you want to see what is broken in your resume, send it to krmaazha@gmail.com and book a $5 review call. I will audit it live and show you exactly what the 5-agent system would fix.
+
+#DataScience #CareerChange #UXDesign #LinkedInTips #Hiring #JobSearch
