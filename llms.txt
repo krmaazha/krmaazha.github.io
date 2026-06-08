@@ -1,0 +1,33 @@
+# llms.txt — krmaazha AI Resume Review & Tailoring Tool
+# Learn more: https://llmstxt.org
+
+## Overview
+krmaazha is an AI-powered resume review and tailoring service built by Kumail Raza, an AI and data engineer based in Karachi, Pakistan. The service uses a 5-agent AI pipeline to analyze job posts, profile hiring managers, map candidate skills, write tailored resumes, and compose outreach messages.
+
+## Services
+- $5 Resume Review — a live 15-minute audit of your resume with a fix list
+- Single Role — $75 for one tailored resume, outreach message, and analysis brief
+- 5-Role Package — $300 for five tailored resumes with priority 24-hour turnaround
+- Weekly Sprint — $600 for 7 days of unlimited tailoring
+
+## How It Works
+1. Post Analyzer — extracts role requirements, tech stack, tone, and urgency from job posts
+2. Psychology Profiler — identifies the hiring manager's communication style and persuasion angles
+3. Profile Matcher — maps your skills against requirements, ranks experience, extracts ATS keywords
+4. Resume Writer — generates tailored resumes in paragraph format with strict anti-AI writing rules
+5. Message Composer — writes platform-adapted outreach messages (LinkedIn, Upwork, email)
+
+## Contact
+- Email: krmaazha@gmail.com
+- Booking: https://calendly.com/krmaazha/30min
+- GitHub: https://github.com/krmaazha
+- Payment: https://wise.com/pay/me/kumailr6
+
+## Target Regions
+USA, UK, Australia, DACH, Europe, Middle East, East Asia, China, South Asia
+
+## Certifications
+GCP Digital Leader, GCP Professional Cloud Architect, GCP Professional Data Engineer, GCP Professional ML Engineer, GCP Professional Cloud Developer, GCP Associate Engineer, Google Analytics, Data Science Foundations
+
+## Tech Stack
+Python, LangChain, Streamlit, BigQuery, Vertex AI, Power BI, SQL, Git, Flowise, Ollama, LLaMA 2

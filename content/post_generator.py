@@ -97,6 +97,68 @@ A 5-agent AI pipeline that:
 It is not a template. It is not ChatGPT with a new prompt. It is a system.
 
 If you are tired of sending resumes into black holes, send yours to krmaazha@gmail.com. $5 gets you a real audit. No pitch."""
+    },
+    6: {
+        "name": "Pure Value / Resume Teardown (No Pitch)",
+        "post": """Most engineers write their resume bullets like a task list. 
+
+Here is an actual "Before & After" from a resume I reviewed this week:
+
+❌ BEFORE:
+"Responsible for migrating the database to AWS and optimizing queries, which reduced load times."
+(ATS Parsers see: generic tasks, no measurable impact, missing exact skill matches).
+
+✅ AFTER:
+"Architected PostgreSQL to AWS RDS migration for a 5TB database, rewriting 50+ complex SQL queries to reduce average page load time by 42%."
+(ATS Parsers see: AWS RDS, PostgreSQL, SQL, 42% reduction, 5TB scale).
+
+The difference? Context, tools, and scale. 
+
+Your resume isn't a list of what you did. It's a marketing document proving you can solve their specific problems.
+
+Follow for more daily resume teardowns."""
+    },
+    7: {
+        "name": "Pure Value / Actionable Checklist (No Pitch)",
+        "post": """3 things you can change on your tech resume today to instantly improve your ATS score:
+
+1. Drop the 2-column format. 
+Many ATS parsers read linearly (left to right, top to bottom). A two-column format often scrambles your experience into unreadable paragraphs. Use a clean, single-column layout.
+
+2. Contextualize your "Skills" section.
+Don't just list "Python, AWS, Docker" at the bottom. If the job requires AWS, make sure AWS is explicitly mentioned in the bullet points of your actual work experience. Parsers weigh skills higher when tied to experience.
+
+3. Standardize your job titles.
+If your internal title was "Tech Ninja II", change it to "Software Engineer" on your resume. ATS systems are looking for standard industry keywords, not internal company jargon.
+
+Save this for your next resume rewrite."""
+    },
+    8: {
+        "name": "The Hand-Raiser / Lead Magnet",
+        "post": """I've spent the last month building a 5-agent AI system that audits tech resumes against strict ATS parsers.
+
+Along the way, I mapped out the exact 5 prompts the AI uses to identify missing skills, fix generic phrasing, and optimize formatting for specific regions.
+
+I put it all into a 2-page PDF cheat sheet so you can manually audit your own resume.
+
+If you are actively applying for jobs right now and want it:
+
+1. Like this post
+2. Comment "SYSTEM" below
+
+I will DM you the PDF for free. No catch."""
+    },
+    9: {
+        "name": "DM Outreach Template (For #OpenToWork)",
+        "post": """Hey [Name], 
+
+Saw your recent post and noticed you're navigating the engineering job market right now. 
+
+I've actually been building an AI system that checks tech resumes against standard ATS parsers to see what gets flagged or missed. 
+
+If you'd like, I'd be happy to run your current resume through the pipeline for free and send you the raw audit output. No pressure either way, just trying to help out folks in the network! 
+
+Best of luck with the search,"""
     }
 }
 

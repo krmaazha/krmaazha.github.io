@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "krmaazha — AI Resume Review & Tailoring Tool",
+  "description": "AI-powered resume review and tailoring service using a 5-agent system. Maps your skills, beats ATS filters, and writes human-sounding job applications.",
+  "url": "https://krmaazha.github.io/",
+  "image": "https://krmaazha.github.io/og-image.png",
+  "founder": {
+    "@type": "Person",
+    "name": "Kumail Raza",
+    "jobTitle": "AI & Data Professional",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Karachi",
+      "addressCountry": "PK"
+    }
+  },
+  "areaServed": [
+    "USA", "UK", "Australia", "Germany", "Austria", "Switzerland", "Europe", "Middle East", "East Asia", "China", "South Asia"
+  ],
+  "serviceType": "Resume Review & Tailoring",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Resume Tailoring Packages",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "$5 Resume Review",
+          "description": "Live 15-minute resume audit with a fix list"
+        },
+        "price": "5",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Single Role",
+          "description": "1 tailored resume, 1 outreach message, 1 analysis brief, 48-hour turnaround"
+        },
+        "price": "75",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "5-Role Package",
+          "description": "5 tailored resumes with priority 24-hour turnaround and 1 revision per resume"
+        },
+        "price": "300",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Weekly Sprint",
+          "description": "7 days of unlimited tailoring with same-day turnaround and 2 revisions per resume"
+        },
+        "price": "600",
+        "priceCurrency": "USD"
+      }
+    ]
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "krmaazha@gmail.com",
+    "contactType": "customer service",
+    "availableLanguage": ["English"]
+  }
+}

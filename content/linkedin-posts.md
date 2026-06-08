@@ -15,6 +15,7 @@ Here is what I learned:
 3. "Results-driven" and "spearheaded" are red flags. Hiring managers scan for AI cliches and downgrade those resumes.
 
 I built a 5-agent AI system that fixes all three:
+
 - Agent 1 maps the job post for exact skill requirements and tone
 - Agent 2 matches your real experience against those gaps
 - Agent 3 writes in natural sentences (no bullets, no hyphens, no AI tell-signs)
@@ -23,9 +24,9 @@ I built a 5-agent AI system that fixes all three:
 
 The result? Resumes that pass ATS and sound like you wrote them.
 
-If you want to see what is broken in your resume, send it to krmaazha@gmail.com and book a $5 review call. I will audit it live and show you exactly what the 5-agent system would fix.
+If you want to see what is broken in your resume, send it to <krmaazha@gmail.com> and book a $5 review call. I will audit it live and show you exactly what the 5-agent system would fix.
 
-#JobSearch #ATS #ResumeTips #CareerAdvice #AI #Hiring #TechJobs #DataScience #JobHunting #ResumeReview
+\#JobSearch #ATS #ResumeTips #CareerAdvice #AI #Hiring #TechJobs #DataScience #JobHunting #ResumeReview
 
 ---
 
@@ -36,6 +37,7 @@ ChatGPT can not tailor your resume properly.
 It writes the same generic output for everyone. It uses banned phrases hiring managers downvote. It does not read the actual job post you are applying to. It does not know if you are applying in Germany (needs photo) versus the US (never photo).
 
 What actually works:
+
 - A system that reads the job post FIRST
 - A profile matcher that maps your real skills to the role requirements
 - Anti-AI writing rules so the output sounds human
@@ -43,9 +45,9 @@ What actually works:
 
 That is what I built. 5 agents. Real tailoring. Not a template swap.
 
-$5 resume review. krmaazha@gmail.com. No sales pitch. Just a real audit.
+$5 resume review. <krmaazha@gmail.com>. No sales pitch. Just a real audit.
 
-#ResumeWriting #JobSearchTips #ATSResume #CareerGrowth #LinkedInTips #TechHiring #AI #MachineLearning
+\#ResumeWriting #JobSearchTips #ATSResume #CareerGrowth #LinkedInTips #TechHiring #AI #MachineLearning
 
 ---
 
@@ -65,9 +67,9 @@ Hiring managers do not care what you CAN do. They care what you can do FOR THEM.
 
 If your resume is a generalist document, you are invisible.
 
-Fix it: krmaazha@gmail.com | $5 review call
+Fix it: <krmaazha@gmail.com> | $5 review call
 
-#JobSearch2026 #ResumeTips #Hiring #TechJobs #DataScience #CareerAdvice #InterviewPrep #AI
+\#JobSearch2026 #ResumeTips #Hiring #TechJobs #DataScience #CareerAdvice #InterviewPrep #AI
 
 ---
 
@@ -83,9 +85,9 @@ Fix = tailored resume per role. Not copy-paste. Real mapping.
 
 I built a system that does this in minutes. $5 review to see what is broken in yours.
 
-krmaazha@gmail.com
+<krmaazha@gmail.com>
 
-#ResumeTips #JobHunting #ATS #CareerAdvice #TechJobs #JobSearch #LinkedInTips
+\#ResumeTips #JobHunting #ATS #CareerAdvice #TechJobs #JobSearch #LinkedInTips
 
 ---
 
@@ -96,6 +98,7 @@ I spent 5 years in data engineering and AI. I watched smart people get rejected 
 So I built something to fix it.
 
 A 5-agent AI pipeline that:
+
 - Reads job posts like a recruiter
 - Maps your skills against the real requirements
 - Writes in your voice, not AI-speak
@@ -103,25 +106,21 @@ A 5-agent AI pipeline that:
 
 It is not a template. It is not ChatGPT with a new prompt. It is a system.
 
-If you are tired of sending resumes into black holes, send yours to krmaazha@gmail.com. $5 gets you a real audit. No pitch.
+If you are tired of sending resumes into black holes, send yours to <krmaazha@gmail.com>. $5 gets you a real audit. No pitch.
 
-#AI #DataScience #JobSearch #ResumeReview #TechCareers #Hiring #CareerAdvice
+\#AI #DataScience #JobSearch #ResumeReview #TechCareers #Hiring #CareerAdvice
 
 ---
 
 ## Hashtag Banks (Rotate These)
 
-**Primary (High Volume — Always Use 3-4):**
-#JobSearch #ResumeTips #CareerAdvice #ATS #Hiring #TechJobs
+**Primary (High Volume — Always Use 3-4):** #JobSearch #ResumeTips #CareerAdvice #ATS #Hiring #TechJobs
 
-**Niche (Target Your Audience — Use 2-3):**
-#DataScience #MachineLearning #AI #SoftwareEngineering #ProductManagement #UXDesign #TechHiring #RemoteWork
+**Niche (Target Your Audience — Use 2-3):** #DataScience #MachineLearning #AI #SoftwareEngineering #ProductManagement #UXDesign #TechHiring #RemoteWork
 
-**Engagement Boosters (Use 1-2):**
-#LinkedInTips #JobHunting #InterviewPrep #CareerGrowth #ProfessionalDevelopment #JobSearch2026
+**Engagement Boosters (Use 1-2):** #LinkedInTips #JobHunting #InterviewPrep #CareerGrowth #ProfessionalDevelopment #JobSearch2026
 
-**Branded (Use 1):**
-#ResumeReview #TailoredResume #BeatTheATS #JobApplication #CareerChange
+**Branded (Use 1):** #ResumeReview #TailoredResume #BeatTheATS #JobApplication #CareerChange
 
 ---
 
@@ -136,11 +135,11 @@ If you are tired of sending resumes into black holes, send yours to krmaazha@gma
 
 ## Weekly Content Calendar
 
-| Day | Post Type | Template |
-|-----|-----------|----------|
-| Monday | Value/Education | Post 1 or 4 |
-| Wednesday | Contrarian/Opinion | Post 2 |
-| Friday | Story/Social Proof | Post 3 or 5 |
+| Day       | Post Type          | Template    |
+| --------- | ------------------ | ----------- |
+| Monday    | Value/Education    | Post 1 or 4 |
+| Wednesday | Contrarian/Opinion | Post 2      |
+| Friday    | Story/Social Proof | Post 3 or 5 |
 
 ---
 
