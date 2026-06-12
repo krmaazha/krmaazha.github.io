@@ -142,15 +142,29 @@
 
       var resumeIntake = document.getElementById('resume-intake');
       if (resumeIntake) {
-        resumeIntake.addEventListener('submit', function() {
+        resumeIntake.addEventListener('submit', function(e) {
           if (typeof gtag === 'function') {
+            e.preventDefault(); // Stop instant redirect
+            var form = this;
+            var formSubmitted = false;
+            
+            function doSubmit() {
+              if (!formSubmitted) {
+                formSubmitted = true;
+                form.submit();
+              }
+            }
+            
             gtag('event', 'resume_intake_submit', { event_category: 'conversion', event_label: 'resume_form' });
-            // GA4 KEY EVENT: generate_lead (your main conversion)
             gtag('event', 'generate_lead', {
               'method': 'form_submit',
               'event_category': 'conversion',
-              'event_label': 'resume_form'
+              'event_label': 'resume_form',
+              'event_callback': doSubmit
             });
+            
+            // Fallback timeout in case GA is blocked or slow
+            setTimeout(doSubmit, 500);
           }
         });
       }
