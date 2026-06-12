@@ -40,6 +40,12 @@
       if (resumeFile && intakeDetails) {
         resumeFile.addEventListener('change', function() {
           if (resumeFile.files && resumeFile.files[0]) {
+            // GA4 EVENT: resume_uploaded
+            if (typeof gtag === 'function') {
+              gtag('event', 'resume_uploaded', {
+                'file_type': resumeFile.files[0].name.split('.').pop()
+              });
+            }
             intakeDetails.classList.add('is-open');
             if (filePicked) {
               filePicked.hidden = false;
@@ -139,6 +145,27 @@
         resumeIntake.addEventListener('submit', function() {
           if (typeof gtag === 'function') {
             gtag('event', 'resume_intake_submit', { event_category: 'conversion', event_label: 'resume_form' });
+            // GA4 KEY EVENT: generate_lead (your main conversion)
+            gtag('event', 'generate_lead', {
+              'method': 'form_submit',
+              'event_category': 'conversion',
+              'event_label': 'resume_form'
+            });
+          }
+        });
+      }
+
+      // GA4 EVENT: job_desc_pasted
+      var jobDescField = document.getElementById('job-description');
+      if (jobDescField) {
+        jobDescField.addEventListener('input', function() {
+          if (this.value.length > 50 && !this.dataset.tracked) {
+            this.dataset.tracked = 'true';
+            if (typeof gtag === 'function') {
+              gtag('event', 'job_desc_pasted', {
+                'desc_length': this.value.length
+              });
+            }
           }
         });
       }
